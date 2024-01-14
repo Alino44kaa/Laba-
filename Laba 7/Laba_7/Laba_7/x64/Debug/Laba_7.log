@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Учёба Алина\Семестр 3 Курс 2\ООПиП\Laba 7\Laba_7\Laba_7\Source.cpp(60,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Учёба Алина\Семестр 3 Курс 2\ООПиП\Laba 7\Laba_7\Laba_7\Source.cpp(59,1): message : во время компиляции функции-члена класс шаблон "int Deque<int>::size(void)"
+D:\Учёба Алина\Семестр 3 Курс 2\ООПиП\Laba 7\Laba_7\Laba_7\Source.cpp(235,9): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Deque<int>::size(void)"
+D:\Учёба Алина\Семестр 3 Курс 2\ООПиП\Laba 7\Laba_7\Laba_7\Source.cpp(256,16): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Deque<int>"
+  Laba_7.vcxproj -> D:\Учёба Алина\Семестр 3 Курс 2\ООПиП\Laba 7\Laba_7\x64\Debug\Laba_7.exe
